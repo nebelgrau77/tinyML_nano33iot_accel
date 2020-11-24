@@ -4,9 +4,8 @@ _This is just a draft of a description, that will be extended with actual code, 
 
 It's based on these tutorials:
 
-[smart dumbbell with Microchip eval board](https://www.hackster.io/alex-jagger/build-a-smart-dumbbell-with-the-samd21-ml-evaluation-kit-c86cae#toc-firmware-integration-15)
-
-[Edge Impulse tutorial on motion recognition](https://docs.edgeimpulse.com/docs/continuous-motion-recognition)
+* [smart dumbbell with Microchip eval board](https://www.hackster.io/alex-jagger/build-a-smart-dumbbell-with-the-samd21-ml-evaluation-kit-c86cae#toc-firmware-integration-15)
+* [Edge Impulse tutorial on motion recognition](https://docs.edgeimpulse.com/docs/continuous-motion-recognition)
 
 1. Data acquisition with a smartphone (how to connect a smartphone to EdgeImpulse?)
    1. Collect training data
